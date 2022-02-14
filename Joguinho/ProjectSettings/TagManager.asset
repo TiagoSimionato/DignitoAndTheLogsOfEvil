@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Virtual Camera
+  - Enemy
+  - UI
+  - MusicPlayer
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Consumable
+  - Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 610254717
+    locked: 0
+  - name: Objetcs
+    uniqueID: 3126527
+    locked: 0
+  - name: Consumables
+    uniqueID: 864812297
+    locked: 0
+  - name: Character
+    uniqueID: 100359217
+    locked: 0
+  - name: SupraObjects
+    uniqueID: 3709752149
+    locked: 0
